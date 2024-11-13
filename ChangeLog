@@ -5,7 +5,7 @@
  - Support for the journal in `task info` has been restored (#3671) and the
    task info output no longer contains `tag_` values (#3619).
  - The `rc.weekstart` value now affects calculation of week numbers in
-   expressions like `2013-W49` (#2654).
+   expressions like `2013-W49` (#3654).
  - Build-time flag `ENABLE_TLS_NATIVE_ROOTS` will cause `task sync` to use the
    system TLS roots instead of its built-in roots to authenticate the server (#3660).
  - The output from `task undo` is now more human-readable. The `undo.style`
